@@ -1,10 +1,34 @@
 # Cygni Competence React
 
-This is the react playground used in a talk on React Basics.
-It is a subset of the excellent boilerplate "React-slingshot".
+This is the react playground used in Fredrik Edgrens talk on React Basics.
+It is a subset of the excellent boilerplate "[React-slingshot](https://github.com/coryhouse/react-slingshot)".
+Check it out when you are ready to go deeper into the rabbithole.
+
+## Get Started
+1. **Initial Machine Setup**. First time running the starter kit? Then complete the [Initial Machine Setup](https://github.com/coryhouse/react-slingshot#initial-machine-setup).
+2. **Clone the project**. `git clone https://github.com/cygni/cygni-competence-react.git`.  
+3. **Install Node packages**. `npm install`
+4. **Run the example app**. `npm start -s`  
+This will run the automated build process, start up a webserver, and open the application in your default browser. When doing development with this kit, you'll want to keep the command line open at all times so that your code is rebuilt and tests run automatically every time you hit save. Note: The -s flag is optional. It enables silent mode which supresses unnecessary messages during the build.
+
+### Nice to know
+You will find the source for the fake api used in 'src/containers/ApiData.js' in the file 'src/tools/srcServer'
+
+### Do you want to learn more?
+Read Pete Hunts short guide to the React ecosystem:
+[https://github.com/petehunt/react-howto](https://github.com/petehunt/react-howto)
+
+### Do you want an example boilerplate with "Extra Allt" and serverside rendering?
+[https://github.com/erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) is a popular choice.
+
+Have fun!
+
+/Fredrik
+
 
 
 ---
+
 
 # React Slingshot!
 
