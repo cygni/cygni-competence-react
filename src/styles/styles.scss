@@ -1,7 +1,3 @@
-/* Variables */
-$vin-blue: #5bb7db;
-$vin-green: #60b044;
-$vin-red: #ff0000;
 
 /* Styles */
 body {
@@ -9,23 +5,53 @@ body {
   line-height: 1.4em;
   color: #4d4d4d;
   min-width: 230px;
-  max-width: 550px;
+  max-width: 600px;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
   font-smoothing: antialiased;
-  font-weight: 300;
 }
 
-td {
-	padding: 12px;
+
+.fat-border-wrapper {
+  border: 5px solid black;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background: beige;
 }
 
-h2 {
-	color: $vin-blue;
+.title {
+  background: crimson;
+  color: gold;
+  margin: 0;
+  padding: 10px;
 }
 
-.savings { color: $vin-green; }
-.loss { color: $vin-red; }
-input.small { width: 46px; }
-td.fuel-savings-label { width: 175px; }
+.planets-list {
+  list-style: none;
+  padding: 5px;
+  background: burlywood;
+}
+
+.planets-list__row {
+}
+
+.planet {
+  margin: 4px;
+  padding: 4px;
+  background: darkgreen;
+  color: white;
+}
+
+.planet__data {
+  display: inline-block;
+  width: 70px;
+  text-align: right;
+}
+
+.planet__data--trend {
+  text-align: left;
+  width: 0;
+  padding-left: 10px;
+}
