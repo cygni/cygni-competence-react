@@ -1,3 +1,11 @@
+# Cygni Competence React
+
+This is the react playground used in a talk on React Basics.
+It is a subset of the excellent boilerplate "React-slingshot".
+
+
+---
+
 # React Slingshot!
 
 React Slingshot is a comprehensive framework for rapid application development using React. It offers a rich development experience including:
