@@ -28,7 +28,7 @@ Have fun!
 
 /Fredrik
 
-
+Below is the original Readme from [React-slingshot](https://github.com/coryhouse/react-slingshot). The most interesting part is probably the "Scripts" section. Redux, tests and some other stuff are removed in this repo. 
 
 ---
 
