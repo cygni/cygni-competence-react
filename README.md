@@ -12,8 +12,9 @@ Check it out when you are ready to go deeper into the rabbithole.
 This will run the automated build process, start up a webserver, and open the application in your default browser. When doing development with this kit, you'll want to keep the command line open at all times so that your code is rebuilt and tests run automatically every time you hit save. Note: The -s flag is optional. It enables silent mode which supresses unnecessary messages during the build.
 
 ### React Developer Tools
-Nice-to-have debugging tools for [Chrome](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiww_r71bXKAhXn8XIKHVS4BI8QFggeMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Freact-developer-tools%2Ffmkadmapgofadopljbjfkapdkoienihi&usg=AFQjCNHpMuLT_xiADuygM7vQOO7tLJcwxQ&sig2=WgEztM0Nz0WnbCx2dHQ39g) and [Firefox](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiww_r71bXKAhXn8XIKHVS4BI8QFggvMAI&url=https%3A%2F%2Faddons.mozilla.org%2Fsv-SE%2Ffirefox%2Faddon%2Freact-devtools%2F&usg=AFQjCNEDB2qK1NbdQgQyjslIN_nf5kTdJw&sig2=FpwIDyDGSFIBM3cHbb1wvw)
-### Nice to know
+Nice-to-have debugging tools for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) and [Firefox](https://addons.mozilla.org/firefox/addon/react-devtools/)
+
+### Fake ipi
 You will find the source for the fake api used in 'src/containers/ApiData.js' in the file 'src/tools/srcServer'
 
 ### Do you want to learn more?
